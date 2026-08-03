@@ -1,0 +1,1342 @@
+[
+    {
+        "topic": "Semantic SEO Thoeries",
+        "subtopics": [
+            {
+                "title": "Roadmap of Semantic SEO",
+                "time": "3:55",
+                "description": "Map the semantic seo roadmap from source context to topical authority, detailing central entity, central search intent, semantic content network, macro and micro semantics, and topical map structure."
+            },
+            {
+                "title": "What is Semantic SEO & Why its Future",
+                "time": "7:43",
+                "description": "Discover how semantic seo moves beyond keyword matching, using context, entities, knowledge graphs, and topic clusters to optimize relationships and reduce retrieval costs."
+            },
+            {
+                "title": "How Google Search Evolved to Semantic",
+                "time": "2:58",
+                "description": "Trace the 14-year evolution of semantic SEO, from the 2011 structured search and knowledge graph to RankBrain, BERT, and the 2021 MM algorithm, culminating in semantic SEO in 2024."
+            },
+            {
+                "title": "What is E. A. V in Semantic SEO",
+                "time": "3:56",
+                "description": "Learn how entities, attributes, and values drive semantic SEO, with definitions, examples like person, place, product, and brand, and how attributes provide context and values specify data."
+            },
+            {
+                "title": "What are the Types of Attributes in Semantic SEO",
+                "time": "7:47",
+                "description": "Explore the diverse types of attributes in semantic seo, including subjective and objective attributes, composite and simple attributes, direct and indirect, stored and derived, single-valued and multi-valued attributes."
+            },
+            {
+                "title": "What is Ontology",
+                "time": "2:49",
+                "description": "Explore ontology as the study of the essence of things and the connections between entities, and see how mutual attributes strengthen named entity recognition in nlp."
+            },
+            {
+                "title": "How Semantic Web is Organized: Ontology & Taxonomy",
+                "time": "1:51",
+                "description": "Explore how taxonomy classifies content in a hierarchical structure from general to specific, and how ontology defines properties and relationships\u2014using schema markup to help search engines understand meaning."
+            },
+            {
+                "title": "What is Onomastics?",
+                "time": "2:59",
+                "description": "Explore onomastics, naming patterns used for named entity recognition and NLP, using lexical semantics and relations like hypernyms, hyponyms, polynyms, chromonyms, and gentilics to optimize content for search engines."
+            },
+            {
+                "title": "What is Knowledge Domain?",
+                "time": "4:49",
+                "description": "Explore knowledge domain as a database of queries, entities, layout design, search patterns, and user segments, and see how contextual SEO uses domains to rank by niche and user intent."
+            },
+            {
+                "title": "What is Contextual Domain?",
+                "time": "3:48",
+                "description": "Explore how a contextual domain, a branch of the knowledge domain, organizes data by context. See how verbs and adjectives shift context for photography and gaming in search engine optimization."
+            },
+            {
+                "title": "What is Contextual Layer?",
+                "time": "3:39",
+                "description": "Explore how contextual domains break a knowledge domain into contextual layers, with Google organizing data into entities and attributes across brands, products, services, and related hierarchies for clear search results."
+            },
+            {
+                "title": "What is Semantic Triple?",
+                "time": "3:39",
+                "description": "Learn how semantic triples, also known as rdf triples, use subject, predicate, and object to organize data for structured machine-readable web, boosting seo, rich snippets, and knowledge graphs."
+            },
+            {
+                "title": "Semantic Triple using Schema",
+                "time": "3:39",
+                "description": "Learn how semantic triples\u2014subject, predicate, and object\u2014form RDF triples that power structured, machine-readable data for the semantic web, and apply them in SEO to boost rich snippets via schema.org."
+            },
+            {
+                "title": "What is Content Configuration?",
+                "time": "6:48",
+                "description": "Content configuration is an ongoing process that adapts content to evolving search queries, core updates, and user behavior, bridging vocabulary gaps to improve semantic relevance and maintain a ranking state."
+            },
+            {
+                "title": "What is Index Partitioning?",
+                "time": "2:53",
+                "description": "Explain how index partitioning divides trillions of pages into compartments, enabling targeted searches, faster data retrieval, and the generation of synthetic queries through triples."
+            },
+            {
+                "title": "What is Central Entity?",
+                "time": "4:32",
+                "description": "Define central entity as the primary subject that underpins all content and appears in every article and site-wide engrams, shaping topical maps and internal linking."
+            },
+            {
+                "title": "What is Source Context?",
+                "time": "5:57",
+                "description": "Define source context to align your site's monetization, brand purpose, and central search intent across every page, enabling cohesive topical mapping, relevant layouts, and clear conversion paths."
+            },
+            {
+                "title": "What is Central Search Intent?",
+                "time": "1:20",
+                "description": "Define central search intent as the main goal of a website and guide content toward user outcomes like skill development and cultural knowledge, using predicates such as visiting Germany."
+            },
+            {
+                "title": "What is Boilerplate Content",
+                "time": "1:27",
+                "description": "Explore boilerplate content, including the header, footer, navigation, and legal disclaimers, which structure every page and improve user navigation and experience while noting how these links differ from main content."
+            },
+            {
+                "title": "What are Boilerplate Links",
+                "time": "1:07",
+                "description": "Explore boilerplate links in header and footer, including menus and rendering bar, impacting site audits. Link content contextually to reduce retrieval costs, aid crawlers, and consolidate ranking signals."
+            },
+            {
+                "title": "Macro vs Micro Context",
+                "time": "2:05",
+                "description": "Master macro and micro context to shape a semantic page that ties the main topic\u2014costs and living in Germany, with macro insights like the economic landscape and visa requirements."
+            },
+            {
+                "title": "What is Historical Data",
+                "time": "5:12",
+                "description": "Understand how historical data stored by Google reflects a website's performance, engagement, and content quality, and how negative, neutral, and positive signals influence rankings."
+            },
+            {
+                "title": "How Historical Data is Tracked",
+                "time": "12:05",
+                "description": "Explore how historical data tracks signals like document inception date, content updates, backlinks, traffic, anchor text, and user behavior to determine ranking quality and combat spam."
+            },
+            {
+                "title": "How Search Engines Use Historical Data",
+                "time": "2:45",
+                "description": "Discover how historical data helps search engines identify topical authority, test new sources, and rank content by user behavior, query relationships, and trends."
+            },
+            {
+                "title": "SEO Strategies for Historical Data",
+                "time": "9:50",
+                "description": "Improve historical data with high quality user engagement, regular content updates, and a semantic content network. Disavow spammy backlinks, leverage trending nodes, and publish content gradually to boost long-term rankings."
+            },
+            {
+                "title": "What is Quality Threshold?",
+                "time": "9:43",
+                "description": "Identify quality threshold as the minimum score for ranking a page on a specific query, guiding main versus supplemental index, with factors like relevance, authority, engagement, and EEAT."
+            },
+            {
+                "title": "What are Quality Nodes?",
+                "time": "8:36",
+                "description": "Identify how quality nodes anchor your topical map as central, high quality articles with internal linking and core content, surpassing Google's quality threshold to improve indexing and ranking."
+            },
+            {
+                "title": "Semantic SEO Terms and Their Meanings",
+                "time": "0:51",
+                "description": "Explore semantic SEO terms such as source, document, and corpus, and learn how Google gathers topic data, stores it in a corpus, and processes it later."
+            },
+            {
+                "title": "What is Semantic Distance",
+                "time": "4:29",
+                "description": "Explore semantic distance and how meaning gaps between words affect search engines, user intent, synonyms, and context such as local relevance and entity relationships for search engine optimization."
+            },
+            {
+                "title": "What is Semantic Similarity?",
+                "time": "3:46",
+                "description": "Explore semantic similarity and its role in lexical semantics, showing how close word meanings influence context, search results, and ranking."
+            },
+            {
+                "title": "What is Semantic Relevance?",
+                "time": "4:01",
+                "description": "Unlock semantic relevance, a meaning-based approach using word embedding and contextual models like BERT and GPT to match content to topics and user queries in NLP, IR, and ML."
+            },
+            {
+                "title": "What is Semantic Role Labelling?",
+                "time": "3:06",
+                "description": "Identify semantic role labeling in sentences\u2014agent, patient, instrument, experiencer, theme, time, location, source, and goal\u2014to reveal who did what to whom, when, and where."
+            },
+            {
+                "title": "What is Information Responsiveness?",
+                "time": "3:26",
+                "description": "Explore information responsiveness, where responsive information directly answers a specific question. Learn how this approach saves resources and tokens while boosting trust, accuracy, and authority."
+            },
+            {
+                "title": "What is Information Retrieval Score?",
+                "time": "5:40",
+                "description": "Learn how information retrieval score (IR score) gauges Google's article relevance to a query, based on term weight, proximity, structure, internal links, and content quality."
+            },
+            {
+                "title": "What is Information Retrieval?",
+                "time": "0:36",
+                "description": "Discover how information retrieval extracts selective data from large unstructured databases to match user queries. See how search engines prioritize relevant documents, as in a dinosaur search example."
+            },
+            {
+                "title": "What is Information Extraction?",
+                "time": "1:48",
+                "description": "Learn how information extraction finds exact answers within content, unlike information retrieval that surfaces relevant pages, by scanning pages and matching questions to deliver precise results as the featured snippet."
+            },
+            {
+                "title": "What is Attribute Prominence?",
+                "time": "1:16",
+                "description": "Identify defining attributes that determine an entity\u2019s existence using attribute prominence. Learn through examples like Germany\u2019s population versus football leagues and a motorcycle\u2019s engine to distinguish necessary from nonessential attributes."
+            },
+            {
+                "title": "What is Attribute Popularity?",
+                "time": "1:37",
+                "description": "Analyze attribute popularity by examining search volume and keyword frequency to determine how famous an attribute is and the related user interest and market demand."
+            },
+            {
+                "title": "What is Attribute Relevance?",
+                "time": "1:44",
+                "description": "Identify attribute relevance that aligns with your website\u2019s source context to keep a focused topical map; for Germany visa consultancy, Germany population relates to living in Germany and visa requirements."
+            },
+            {
+                "title": "What are Skip-gram Dominant Words?",
+                "time": "4:31",
+                "description": "Explore skip-gram dominant words and how word vectors place related terms in a semantic space, enabling word-sense disambiguation, document summarization, keyword extraction, and improved information retrieval."
+            },
+            {
+                "title": "What is Dominant Search Intent?",
+                "time": "2:02",
+                "description": "Dominant search intent describes the common goal users pursue when searching, guiding results and local data like weather by area or pizza places near me."
+            },
+            {
+                "title": "What is Information Density?",
+                "time": "1:21",
+                "description": "Explore information density, using structured language and tables to convey useful data in compact form. See how human and automated reviewers assess quality, with nutrition data as examples."
+            },
+            {
+                "title": "What is Unique Information Gain Score?",
+                "time": "3:48",
+                "description": "Explore Google's unique information gain score, a patent-based metric ranking content by uniqueness and user value. Learn to compare articles with existing ones and identify missing coverage to boost rankings."
+            },
+            {
+                "title": "What is Initial Ranking?",
+                "time": "6:21",
+                "description": "Explore how Google's initial ranking acts as a testing phase for new content, driven by historical data, topical authority, popularity, and source trust, before re-ranking."
+            },
+            {
+                "title": "What is Re-Ranking?",
+                "time": "4:10",
+                "description": "Discover how re-ranking adjusts initial rankings using historical data, user behavior, and content quality to improve relevance and long-term results."
+            },
+            {
+                "title": "What is Lemmatization",
+                "time": "2:55",
+                "description": "Lemmatization reduces words to their base forms, or lemmas, improving text analysis accuracy, information retrieval, and machine learning by considering context and part of speech."
+            },
+            {
+                "title": "What is Term-weight Calculation?",
+                "time": "1:18",
+                "description": "Explore term weight calculation, from tf-idf to newer methods, and learn to use Professor Coray's gpt agents to analyze competitor text and identify weight scores for terms."
+            },
+            {
+                "title": "What is TF-IDF?",
+                "time": "2:48",
+                "description": "Learn tf-idf, including term frequency and inverse document frequency, and how their product reveals rare, topic-specific terms for seo, with a Colab workflow for libraries, code, and competitor analysis."
+            },
+            {
+                "title": "What is Micro Semantics",
+                "time": "4:09",
+                "description": "Explore micro semantics: small tweaks to words, punctuation, and structure boost content context and relevance, guiding improvements through competitor analysis and structured data."
+            },
+            {
+                "title": "What is Macrosemantics",
+                "time": "1:06",
+                "description": "Explore macro semantics as big level elements that define relevance and context for an article. Optimize headings, anchor text, and content structure, including site-wide anchors, to improve targeting and clarity."
+            },
+            {
+                "title": "Search Engine Communication",
+                "time": "2:42",
+                "description": "Explore how search engines communicate through signals and AI-driven algorithms to rank content. Build trust with semantic, high-quality, topic-focused content and consistent updates from a reliable brand source."
+            },
+            {
+                "title": "What are Entity Connections?",
+                "time": "2:33",
+                "description": "Map relationships between real-world entities within a context, enabling search engines to understand topics and improve results by analyzing descriptions, types, links, and attributes."
+            },
+            {
+                "title": "What are the types of Content on Webpage",
+                "time": "1:15",
+                "description": "Identify content types on a webpage: main content, supplementary content, and ad content, and explain how each supports the topic, with main content about 70% and ads about 5\u201310%."
+            },
+            {
+                "title": "What is Ranking Signal Dilution & Prevention?",
+                "time": "2:49",
+                "description": "Understand ranking signal dilution when multiple pages target the same keyword, cannibalize rankings, and waste link juice; prevent it with canonical tags, redirects, and clear internal linking."
+            },
+            {
+                "title": "What is Complex Adaptive System",
+                "time": "3:25",
+                "description": "Explore how complex adaptive systems drive modern search rankings, where thousands of adaptive algorithms learn from user intent and feedback, and semantic SEO shapes ranking through website representation vectors."
+            },
+            {
+                "title": "What is Page Segmentation?",
+                "time": "2:20",
+                "description": "Understand how page segmentation separates boilerplate content from the main content, enabling search engines to weight text, images, and links in the primary area."
+            },
+            {
+                "title": "What is Website Segmentation",
+                "time": "2:20",
+                "description": "Discover how page segmentation separates main content from boilerplate like header, footer, sidebar, and ads, and why prioritizing the main content boosts seo and page rank."
+            },
+            {
+                "title": "What is Update Score",
+                "time": "1:41",
+                "description": "Explore how the update score, computed as update frequency times update amount, impacts rankings for fresh information like stocks and breaking news."
+            },
+            {
+                "title": "What is Ranking Signal Consolidation",
+                "time": "4:05",
+                "description": "Learn how ranking signal consolidation cures dilution by merging duplicate pages into one authoritative page. Prevent cannibalization, unify signals and backlinks, and boost crawl efficiency, rankings, and user experience."
+            },
+            {
+                "title": "What is Google Supplemental Index?",
+                "time": "2:15",
+                "description": "Explore how Google's supplemental index stored low-quality, duplicate pages and pages with few backlinks separate from the main index, and how modern semantic seo uses indexing tiers and shards."
+            },
+            {
+                "title": "What is Ambience Optimization?",
+                "time": "3:08",
+                "description": "Explore Google's ambience optimization as a data-driven approach spanning search, chrome, android, and ai tools. See how data collection, analysis, author rank, and quality raters shape semantic SEO."
+            },
+            {
+                "title": "What are Information Retrieval Zones?",
+                "time": "1:56",
+                "description": "Identify information retrieval zones on a web page, including the URL, HTML tags, featured image, meta description, and structured markup data, then optimize them for search crawlers and semantic indexing."
+            },
+            {
+                "title": "What is Broad Index Refresh?",
+                "time": "4:42",
+                "description": "Learn how the broad index refresh selectively ranks high-quality sites during core updates, applying a quality threshold and candidate filtration to de-index outdated content."
+            },
+            {
+                "title": "What is Knowledge Base",
+                "time": "2:43",
+                "description": "Learn how knowledge bases organize facts and relationships from semantic networks into a machine-readable information library, enabling fast retrieval and accurate answers to user queries."
+            },
+            {
+                "title": "What is Knowledge Base Trust?",
+                "time": "1:47",
+                "description": "Learn knowledge-based trust, an accuracy-focused algorithm using fact extraction of triples (subject, predicate, object) and semantic content networks with contextual page rank to boost reliable content for semantic seo."
+            },
+            {
+                "title": "Types of Text Summarization",
+                "time": "3:00",
+                "description": "Learn about text summarization as a key NLP tool, comparing extractive methods that select existing sentences with abstractive methods that rephrase to present the core idea concisely."
+            },
+            {
+                "title": "What is Contextual Coverage?",
+                "time": "3:08",
+                "description": "Learn how contextual coverage assesses an article\u2019s topic and purpose, compares topical and contextual coverage, and explains macro and micro context signals and qualifiers."
+            },
+            {
+                "title": "What is Canonical Search Intent?",
+                "time": "3:48",
+                "description": "Identify canonical search intent behind related queries and target it with in-depth guides, informational, transactional, and comparative intents, latent keywords, and faq schema to improve search engine optimization."
+            }
+        ]
+    },
+    {
+        "topic": "Lexical Semantics",
+        "subtopics": [
+            {
+                "title": "What is Lexical Semantics",
+                "time": "3:11",
+                "description": "Explore lexical semantics, the study of word meanings and their relationships, including hypernyms, hyponyms, antonyms, synonyms, holonym, maronym, and polysemy, and learn how these concepts strengthen seo and content relevance."
+            },
+            {
+                "title": "Lexical Relations: Synonyms, Antonyms, Hyponyms, Hypernyms, Homonyms, Meronyms",
+                "time": "5:05",
+                "description": "Explore lexical relations, including synonyms, antonyms, hyponyms, hypernyms, homonyms, meronyms, and holonyms, with clear examples. Apply these concepts to improve understanding of word meaning and relationships."
+            },
+            {
+                "title": "What is Polysemy?",
+                "time": "1:42",
+                "description": "Explore polysemy and distinguish it from homonymy using related versus unrelated meanings, illustrated by wood, crane, dish, cap, trunk, and bark."
+            }
+        ]
+    },
+    {
+        "topic": "Query Semantics",
+        "subtopics": [
+            {
+                "title": "What is Query Term?",
+                "time": "1:12",
+                "description": "Define a query term as the keyword or search inquiry used in a search engine, show how algorithms analyze, expand, and rewrite it to match indexed pages and ranking signals."
+            },
+            {
+                "title": "What is Query Semantics",
+                "time": "2:36",
+                "description": "Explore query semantics by analyzing user intent behind search terms and observe serp patterns\u2014videos, images, or e-commerce\u2014to predict which article types rank and how to optimize CTR."
+            },
+            {
+                "title": "What is Entity Seeking Query?",
+                "time": "6:08",
+                "description": "Learn how entity seeking queries target specific entities such as people, places, or organizations using a query mapper, semantic dependency tree, and subquery resolver to deliver fast, relevant answers."
+            },
+            {
+                "title": "What is Seed Query?",
+                "time": "5:27",
+                "description": "Explore seed queries, how Google uses synthetic and user generated seeds to drive data retrieval, related queries, and high quality search results through canonicalization and well-informed queries."
+            },
+            {
+                "title": "What is Substitue Query?",
+                "time": "6:39",
+                "description": "Explore substitute queries, how google replaces certain words with interchangeable terms without changing context, using co-occurrence lists, phrase-based indexing, and vector space to refine and personalize results."
+            },
+            {
+                "title": "What is Natural Language Query?",
+                "time": "7:23",
+                "description": "Explore natural language queries and how search engines use intent templates to clarify user needs, with examples like how do I make hummus and personalized results."
+            },
+            {
+                "title": "What is Answer Seeking Query?",
+                "time": "8:45",
+                "description": "Explore how answer-seeking queries trigger direct, concise answers and how search engines classify, extract, score, and display the best answer in an answer box within seconds."
+            },
+            {
+                "title": "What is Factual Query?",
+                "time": "1:06",
+                "description": "Define a factual query as a user seeking a fact to obtain accurate data, and show how the search engine uses the index cluster and answer ranger to verify date."
+            },
+            {
+                "title": "What is Non Factual Query?",
+                "time": "0:43",
+                "description": "Explore non-factual queries, which rely on subjective opinions, advice, explanations, and discussions rather than simple facts, illustrated by the London or Paris comparison."
+            },
+            {
+                "title": "Factoid vs Non Factoid",
+                "time": "0:33",
+                "description": "Explore factoid and non-factoid information retrieval within search engines, defining factoids as concise answers (e.g., Paris for the capital of France) and non-factoids as opinions or detailed explanations."
+            },
+            {
+                "title": "What is  Non-variable Portion in Query?",
+                "time": "1:41",
+                "description": "Learn about non-variable positions in inquiry processing\u2014the fixed parts of query templates that stay constant and how changing the variable portion generates multiple queries."
+            },
+            {
+                "title": "What is Variable Portion in Query?",
+                "time": "1:19",
+                "description": "Explore how the variable portion of a query changes with user input, while the non-variable portion remains constant, enabling flexible templates and more accurate and relevant search results."
+            },
+            {
+                "title": "What is Discordant Query?",
+                "time": "1:55",
+                "description": "Learn how discordant queries harm search rankings by signaling spam through irrelevant keywords, keyword stuffing, and poor user experience, leading to pogo sticking and deranking."
+            },
+            {
+                "title": "What is Query Rewrite?",
+                "time": "1:08",
+                "description": "Learn how query rewriting generates variants and how semantic search engines rewrite queries to match user intent, adjust wording and correct spelling to deliver accurate, relevant results."
+            },
+            {
+                "title": "What is Open Information Extraction?",
+                "time": "7:09",
+                "description": "Open information extraction links nouns through relationships to extract facts from text and convert unstructured data into structured data using a self-supervised learner and a single-pass extractor."
+            },
+            {
+                "title": "What is Query Processing?",
+                "time": "2:43",
+                "description": "Explore how query processing boosts search relevance through parsing, rewriting, expansion, and term weighting, then generate questions, arrange word order, stemming, lemmatization, and clustering."
+            },
+            {
+                "title": "What is Synthetic Query?",
+                "time": "2:11",
+                "description": "Discover how synthetic queries rewrite user searches to improve results, using edit distance, similarity, and transformation scores, templates, and IDF to predict intent and refine queries."
+            },
+            {
+                "title": "What is Categorical Query?",
+                "time": "1:25",
+                "description": "Explore categorical queries that target entire categories rather than specific items, and learn how broad search intents guide information discovery across topics like programming languages, diets, smartphones, and entertainment."
+            },
+            {
+                "title": "What is Contextual Vectors?",
+                "time": "2:51",
+                "description": "A contextual vector captures the micro-context of a domain by listing its frequent terms, helping search engines identify domains like sports, cooking, or SEO."
+            },
+            {
+                "title": "What are Term Vectors?",
+                "time": "1:07",
+                "description": "Explore term vectors as word representations within a contextual domain to refine queries, group similar terms, and boost search engine relevance for better results."
+            },
+            {
+                "title": "What is Intent Templates?",
+                "time": "12:17",
+                "description": "Learn how intent templates pattern user questions into fixed and variable portions, convert natural language into keyword queries, and categorize queries to enhance relevance and featured snippets."
+            },
+            {
+                "title": "What is Co-occurence Matrix?",
+                "time": "4:53",
+                "description": "Explore how a co-occurrence matrix records how often two words appear together, including raw, disjunctive, and conjunctive counts, and how it informs NLP, search engines, content categorization, and phrase lists."
+            },
+            {
+                "title": "What is Query Expansion?",
+                "time": "5:54",
+                "description": "Discover how query expansion uses a context map and translation likelihood to add synonyms, with online and offline translation guiding appending or reformulation for broader, more relevant results."
+            },
+            {
+                "title": "What is Multi-stage Query Processing?",
+                "time": "4:13",
+                "description": "Explore multi-stage query processing, from pre-parser and global execution to query expander and first-stage processor, including context of words, stop words removal, stemming, synonyms and co-occurrences, and VIPS page layout."
+            },
+            {
+                "title": "What is Query Breadth?",
+                "time": "2:43",
+                "description": "Learn how query breadth measures how general or specific a query is. Broad terms like shoes yield many results; narrowing phrases such as red leather boots reduce breadth."
+            },
+            {
+                "title": "What is Query Template?",
+                "time": "3:11",
+                "description": "Identify, create, and validate query templates from data sources like knowledge bases and LLMs to scale content strategies and improve semantic SEO performance."
+            },
+            {
+                "title": "What is Topical Entry?",
+                "time": "1:49",
+                "description": "Explore topical entry by counting domain-relevant words to form a macro context score that guides topic classification and influences Google's main-domain ranking."
+            },
+            {
+                "title": "What is Mid-page Query Refinement?",
+                "time": "15:03",
+                "description": "Explore how mid-page query refinements modify user queries to generate semantic query clusters and centroids, using associator, selector, reginator, inverter, and a presenter to refine results."
+            },
+            {
+                "title": "What is Query Ambiguity?",
+                "time": "2:53",
+                "description": "Explore how query ambiguity yields multiple interpretations\u2014from lexical and semantic ambiguity to synthetic phrasing\u2014with examples like Jaguar and bank, and learn how search engines diversify results and apply disambiguation techniques."
+            },
+            {
+                "title": "What is Query Analysis?",
+                "time": "6:41",
+                "description": "Discover how query analysis uses staleness, evergreen content, and historical data as ranking signals, while avoiding spam from irrelevant keywords, and how document locator, freshness, and authority shape search results."
+            },
+            {
+                "title": "What is Representative Query?",
+                "time": "2:29",
+                "description": "Identify the representative query as the main theme or context of a user search and show how search engines use it to deliver relevant results."
+            },
+            {
+                "title": "What is Represented Query?",
+                "time": "2:34",
+                "description": "Identify the main theme or context of a user query as the representative query, and learn how search engines process and rank results across different meanings and contexts."
+            },
+            {
+                "title": "What is Canonical Query?",
+                "time": "1:17",
+                "description": "Discover how the canonical query represents the main search term and core user intent across variations, with Google choosing the most traffic-driving version as canonical."
+            },
+            {
+                "title": "What is Minor Intent?",
+                "time": "2:10",
+                "description": "Define minor intent as the least common interpretation of a query, alongside dominant and common meanings, and explain how search engines balance these meanings to rank results."
+            },
+            {
+                "title": "What is Word Adjecency?",
+                "time": "1:46",
+                "description": "Discover word adjacency and how search engines use word position to interpret intent. Explore phrase and proximity searches, and query reformulation with examples like data mining."
+            },
+            {
+                "title": "What is Word Proximity?",
+                "time": "1:37",
+                "description": "Explore word proximity and how search engines use word closeness and bag-of-words terms to infer meaning and intent, aided by TFIDF."
+            },
+            {
+                "title": "What is Query Type?",
+                "time": "1:14",
+                "description": "Identify query types within the search context, including information, action, site-specific, and local queries. Use examples like what is the capital of France and book a flight to Paris."
+            },
+            {
+                "title": "What is Query Parsing?",
+                "time": "0:19",
+                "description": "Explore how query parsing breaks a search query into components to understand meaning and intent, helping search engines deliver relevant results."
+            },
+            {
+                "title": "What is Query Word Lemmatization?",
+                "time": "1:40",
+                "description": "Learn how query lemmatization reduces words to base forms, contrasts with stemming, and improves search efficiency by treating runs, ran, and running as the same term in NLP."
+            },
+            {
+                "title": "What is Query Word Stemming?",
+                "time": "1:39",
+                "description": "Discover query word stemming and how stemming links related terms to a common stem to expand search results, improve relevance, and speed searches while reducing storage."
+            },
+            {
+                "title": "What is Query Path",
+                "time": "1:52",
+                "description": "Explore how query path captures the sequence of user searches to reveal intent, guide relevant results, and model the customer journey from information gathering to purchase."
+            },
+            {
+                "title": "What is Correlative Queries",
+                "time": "1:22",
+                "description": "Explore how correlative queries, or co-queries, reveal user intent through search patterns, and learn to cover these related queries together to boost semantic search visibility."
+            },
+            {
+                "title": "What is Sequential Query",
+                "time": "1:44",
+                "description": "Sequential queries form a logical, step-by-step path through a session toward a final objective. They guide users with complete journeys, boosting conversions, user experience, and rankings for content creators."
+            },
+            {
+                "title": "What is Query Network?",
+                "time": "1:47",
+                "description": "Discover how the query network links search terms to intent, context, and latent topics to deliver accurate results, using the query aspect, definition, and theme to guide content."
+            },
+            {
+                "title": "What are Representative Queries?",
+                "time": "2:29",
+                "description": "Identify the main theme and context of a user search as the representative query. See how search engines use this context to rank relevant results."
+            },
+            {
+                "title": "What are Context Words?",
+                "time": "1:32",
+                "description": "Discover how context words clarify topics by using semantically related terms that reflect user intent and improve reader understanding and search rankings."
+            },
+            {
+                "title": "What is Word Vector?",
+                "time": "2:17",
+                "description": "Learn how word vectors encode words as numbers in a multi-dimensional space, enabling semantic understanding and improved search relevance through context, synonyms, and NLP models like RankBrain and BERT."
+            },
+            {
+                "title": "What is Augmentation Queries?",
+                "time": "9:01",
+                "description": "Explore augmentation queries, including user-generated and synthetic queries, and how they improve search results by matching queries with similar stored terms and using CTR and dwell time signals."
+            }
+        ]
+    },
+    {
+        "topic": "Topical Map",
+        "subtopics": [
+            {
+                "title": "What is Semantic Content Network?",
+                "time": "4:29",
+                "description": "Explore how semantic content networks build knowledge bases from attributes and entries. Learn to align topic vocabulary with user queries to boost credibility and conversions."
+            },
+            {
+                "title": "What is Semantic Dependency Tree?",
+                "time": "2:08",
+                "description": "Understand how a semantic dependency tree turns a sentence into an acyclic graph of words and semantic relationships. See how nodes and edges shape context and meaning."
+            },
+            {
+                "title": "What is Vastness-Depth-Momentum for Topical Map?",
+                "time": "2:53",
+                "description": "Discover how vastness, depth, and momentum build a semantic content network and topical authority by publishing broadly, deepening articles, and maintaining a steady content pace."
+            },
+            {
+                "title": "What is Trending Node?",
+                "time": "5:06",
+                "description": "Learn how trending nodes in the topical map boost semantic seo by targeting timely, engaging content\u2014podcasts, videos, or articles\u2014presented as a single page to boost rankings."
+            },
+            {
+                "title": "What is Topical Authority",
+                "time": "2:50",
+                "description": "Build topical authority through semantic seo by covering connected topics with accurate, unique, and expert information to improve search visibility and establish brand trust."
+            },
+            {
+                "title": "What are Topical Borders?",
+                "time": "4:22",
+                "description": "Maintain niche boundaries to preserve focus and authority, using semantic seo and topical clusters. Organize content with controlled internal linking to avoid dilution and strengthen relevance."
+            },
+            {
+                "title": "What is Outer Section of Topical Map",
+                "time": "2:30",
+                "description": "Illustrates how the outer section of a topical map links broader topics to the business model, boosting contextual relevance, trust signals, and historical data for semantic seo."
+            },
+            {
+                "title": "What is Core Section of Topical Map",
+                "time": "2:29",
+                "description": "Identify and densify the core section of a topical map by defining the central entity's primary attributes and expanding related attributes, strengthening authority, relevance, and search rankings."
+            },
+            {
+                "title": "What is Topical Map & Its Types",
+                "time": "1:57",
+                "description": "Define topical maps as quality over quantity, expanding in-depth coverage for context and SEO, and distinguish raw and processed maps with core and outer sections that collect historical data."
+            },
+            {
+                "title": "Topical Map Codes with Descriptions",
+                "time": "7:51",
+                "description": "Explore topical map codes and context structures to optimize seo content, covering featured snippets, people also ask, anchor text, and various listing formats for precise, semantically rich articles."
+            },
+            {
+                "title": "Topical Map ROI",
+                "time": "6:16",
+                "description": "Learn how topical distortion harms rankings and how to build a focused topical map aligned with the business model and user goals, with contextual bridges and detailed content briefs."
+            },
+            {
+                "title": "What is Topical Map Distortion?",
+                "time": "6:16",
+                "description": "Learn how topical distortion harms rankings by corrupting the topical map and semantic connections, and build a quality map with contextual bridges aligned to business models and user goals."
+            }
+        ]
+    },
+    {
+        "topic": "Content Brief",
+        "subtopics": [
+            {
+                "title": "What is Content Brief",
+                "time": "5:35",
+                "description": "Discover how semantic content briefs go beyond traditional briefs by detailing central search intent, central entity, contextual flow, query networks, and tone to boost semantic seo and topical authority."
+            },
+            {
+                "title": "What is Contexual Vector",
+                "time": "2:47",
+                "description": "Learn how a contextual vector uses domain-specific terms as a micro-context to help search engines classify content and reveal SEO topics like on-page, off-page, and alt-text."
+            },
+            {
+                "title": "What is Contextual Structure",
+                "time": "5:51",
+                "description": "Learn how contextual structure uses headers like H1, H2, and H3 to organize content hierarchically for coherent sections that boost user experience and search engine relevance."
+            },
+            {
+                "title": "What is Contextual Connection",
+                "time": "5:44",
+                "description": "Explore contextual connection, or internal linking, and how arranging links by relevance and hierarchy improves user navigation and semantic SEO."
+            },
+            {
+                "title": "What is Contextual Border?",
+                "time": "1:40",
+                "description": "Explore the contextual border as the boundary between macro and micro context, guiding transitions from climate change to its side topics through a broker question."
+            },
+            {
+                "title": "What is Contextual Bridge?",
+                "time": "1:22",
+                "description": "Explore the contextual bridge in semantic SEO, hypertext and linkless connections linking topics. Understand how query history and related queries guide readers and improve relevance."
+            },
+            {
+                "title": "What is Contextual Flow",
+                "time": "1:35",
+                "description": "Learn how contextual flow structures the order of contexts in content to boost user satisfaction and SEO performance. See why a logical, sequential sequence improves clarity, engagement, and click satisfaction."
+            },
+            {
+                "title": "What is Contextual Hierarchy?",
+                "time": "1:35",
+                "description": "Master contextual hierarchy by examining heading structures (h1 to h6) and section prioritization to balance micro-context and macro-context, typography, visuals, and internal links for better page relevance."
+            },
+            {
+                "title": "Types of Questions in Content Brief",
+                "time": "5:35",
+                "description": "Explore semantic content briefs, a detailed framework that enhances SEO by outlining central search intent, central entity, contextual flow, query networks, content structure, and semantic optimization."
+            },
+            {
+                "title": "Hierarchy of Questions",
+                "time": "1:26",
+                "description": "Organize content with a hierarchy of questions, distinguishing representative (broad) questions from represented (child) ones to improve SEO and search engine understanding."
+            },
+            {
+                "title": "What is Candidate Answer Passage?",
+                "time": "6:32",
+                "description": "Explore how a candidate answer passage is identified and scored by search engines, shaping featured snippets through relevance, authority, and answer passage scoring mechanisms."
+            },
+            {
+                "title": "What is Passage Ranking?",
+                "time": "2:05",
+                "description": "Discover how passage ranking works, with Google favoring highly optimized sections within an article and boosting relevant sections so long-form content can rank for related niche queries."
+            }
+        ]
+    },
+    {
+        "topic": "Semantic On Page SEO",
+        "subtopics": [
+            {
+                "title": "How to Create Title using Semantic Rules",
+                "time": "2:08",
+                "description": "Apply semantic rules to craft concise, descriptive title tags that match page content, balance keywords and brand usage, ensure unique, topically clear titles for better Google understanding."
+            },
+            {
+                "title": "How to write Meta Description using Semantic Rules",
+                "time": "1:42",
+                "description": "Learn to craft semantic meta descriptions that boost click-through rates with templates, synonyms, and actionable language, noting they are not a direct ranking factor."
+            },
+            {
+                "title": "How to Optimize URL as Root,Seed,Node",
+                "time": "4:37",
+                "description": "Learn to optimize URLs by keeping them logical and concise, reflecting the main topic, and using flat or deep URL structures to improve navigation, internal linking, and SEO clarity."
+            },
+            {
+                "title": "How to do Internal Linking using Semantic Rules",
+                "time": "4:36",
+                "description": "Study internal linking semantics, matching anchor text to target titles and placing relevant links in main sections while limiting header and footer links for better indexing and UX."
+            },
+            {
+                "title": "How to Optimize Image File Names & Alt Text using Semantic SEO",
+                "time": "5:12",
+                "description": "Learn to optimize image urls and alt text by removing stop words, prioritizing core terms like microplastics and drinking water, and aligning with headings and meta data for semantic seo."
+            },
+            {
+                "title": "What should be Article Posting Momentum",
+                "time": "4:33",
+                "description": "Build seo momentum by publishing high-quality, fresh content at unpredictable frequencies, start with 20 articles, then publish gradually to boost crawl rate and rankings while avoiding core updates."
+            },
+            {
+                "title": "Google New Tool for Image AI",
+                "time": "2:45",
+                "description": "Discover Google Image FX, an image AI tool for service websites, delivering accurate, HD images; compare with Bing and follow guidelines like centered subjects and text overlays for semantic SEO."
+            },
+            {
+                "title": "How to Check Article Content if Its Written by AI",
+                "time": "2:42",
+                "description": "Learn how semantic seo evaluates AI-written content with Google's sequence modeling and footprint analysis, including recognizing templates and patterns, and how to assess articles for AI authorship."
+            },
+            {
+                "title": "How to Bulk Update Alt Text",
+                "time": "6:45",
+                "description": "Discover methods to bulk update alt text using a temporary missing alt text optimizer and a permanent auto image attributes plugin, with a side-by-side comparison of pros and cons."
+            },
+            {
+                "title": "Anchor Text Rules",
+                "time": "1:42",
+                "description": "Master anchor text rules for internal linking, including avoiding first paragraph anchors, never using the first word of a paragraph, and applying supplementary content linking and competitor analysis."
+            },
+            {
+                "title": "Combining Schemas",
+                "time": "1:52",
+                "description": "connect webpage, website, and organization schemas to form a knowledge graph and test the linked schemas with a testing tool, optionally using chatgpt to fill page data."
+            },
+            {
+                "title": "Website Branding Schema",
+                "time": "0:58",
+                "description": "Display your brand name in Google by adding the website schema markup to your homepage and keep the brand name consistent in content and structured data, per Google's official guidance."
+            },
+            {
+                "title": "H1 Optimization",
+                "time": "2:59",
+                "description": "Learn how the H1 heading anchors content to central search intent, links macro context, and guides a logical content structure with attributes to support SEO and a clear semantic network."
+            }
+        ]
+    },
+    {
+        "topic": "Semantic SEO Algorithms",
+        "subtopics": [
+            {
+                "title": "Types of Semantic SEO Algorithms",
+                "time": "2:32",
+                "description": "Explore semantic seo algorithms, including NLP, sliding window, sequence modeling, NER, relation extraction, Pegasus, BERT, LayMDA, Realm, MUM, PLM, and PALM-E, for text generation, retrieval, and conversational search."
+            },
+            {
+                "title": "What is Natural Language Processing?",
+                "time": "3:14",
+                "description": "Explore natural language processing, a branch of artificial intelligence that lets computers understand and respond to human language using machine learning, computational linguistics, and Python libraries like NLTK and TensorFlow."
+            },
+            {
+                "title": "What is Sliding-window in NLP?",
+                "time": "4:07",
+                "description": "Explore how sliding window NLP processes data in fixed-size windows to generate engrams and extract features like TFIDF, enabling efficient, real-time analysis for sentiment and NER."
+            },
+            {
+                "title": "What is Sequence Modeling in NLP?",
+                "time": "1:57",
+                "description": "Sequence modeling drives natural language processing by ordering words to reveal meaning and context. It enables chatbots, search engines, translation, sentiment analysis, and text generation."
+            },
+            {
+                "title": "What is NLTK?",
+                "time": "3:27",
+                "description": "Explore NLTK, a Python library for NLP, including tokenization, parsing, classification, stemming, and tagging. Learn text cleaning, vectorization, and applying NLP models to analyze sentiment and build chatbots."
+            },
+            {
+                "title": "What is Named Entity Recognition?",
+                "time": "2:03",
+                "description": "Learn how named entity recognition, a natural language processing task, identifies entities and classifies them into person, organization, location, date, and quantity groups with examples like Steve Jobs and California."
+            },
+            {
+                "title": "What is Relation Detection?",
+                "time": "1:48",
+                "description": "Identify and label relationships between entities in relation detection, a key process in named entity recognition guided by entity types and semantic dependency trees."
+            },
+            {
+                "title": "What is Pegasus and How does it Work?",
+                "time": "1:22",
+                "description": "Learn how the Pegasus language model from Google performs abstractive summarization by extracting facts and discarding fluff, with testing on Hugging Face."
+            },
+            {
+                "title": "What is BERT and How does it work?",
+                "time": "3:03",
+                "description": "Learn how BERT, bidirectional encoder representations from transformers, helps Google understand language like humans by using context and word relationships and predicts connections between sentences."
+            },
+            {
+                "title": "What is KELM and How does it work?",
+                "time": "2:55",
+                "description": "Kelm verifies data accuracy by cross-checking facts against knowledge bases, reducing bias and guessing. It converts stored facts into sentence form for language models, aiding question answering and text creation."
+            },
+            {
+                "title": "What is REALM and How does it Work?",
+                "time": "3:39",
+                "description": "Explore Realm, a large language model that blends pre-trained models with external knowledge retrieval from sources like Wikipedia to fill gaps and improve predictions using neural retrievers, encoders, and MIPS."
+            },
+            {
+                "title": "What is Conversational Search Experience?",
+                "time": "3:51",
+                "description": "Discover how conversational search becomes contextually aware by linking your search history to intent, guiding accurate results, and forming query paths that boost relevance and user experience."
+            },
+            {
+                "title": "What is MUM and How does it work?",
+                "time": "4:27",
+                "description": "Explore how Mum, Google's multitask unified model launched in 2021, analyzes text, images, video, and audio across 75 languages to enable semantic, context-based search and inform SEO."
+            },
+            {
+                "title": "What is PaLM and PaLM-E and How do they work?",
+                "time": "3:02",
+                "description": "Learn how PaLM and PaLM-E use transformers with 540 billion parameters and Pathways training to enable reasoning, math, code, and debugging, then apply to robotics with visual data and GemIIni."
+            },
+            {
+                "title": "What is CALM",
+                "time": "2:01",
+                "description": "discover how CoAM, or Confident Adaptive Language Modeling, speeds AI generation, with quick, high-quality results, reduces costs, handles easy versus hard tasks, and scales with models like T5 and GPT-3."
+            },
+            {
+                "title": "What is LaMDA",
+                "time": "2:10",
+                "description": "Explore LaMDA, a 2020 transformer-based dialogue model trained on vast human chat data that enables natural, topic-switching, human-like conversations with detailed responses."
+            },
+            {
+                "title": "Timeline of Google Algorithms",
+                "time": "3:21",
+                "description": "Trace Google's semantic search evolution over 15 years, from structured search and the knowledge graph to RankBrain, BERT, MUM, and Gemini, with notes on Canary verification and conversational search."
+            }
+        ]
+    },
+    {
+        "topic": "N-Grams",
+        "subtopics": [
+            {
+                "title": "What are N-Grams: Types, Uses",
+                "time": "3:03",
+                "description": "Learn how engrams\u2014unigram, bigram, and trigram\u2014power topical mapping, content briefs, competitor analysis, and writer training to optimize keyword usage and create contextual, unique content."
+            },
+            {
+                "title": "How to do N-Gram Competitive Analysis",
+                "time": "3:58",
+                "description": "Explore n-gram competitive analysis for semantic seo, from unigrams to six-grams, using a tool to compare two texts, highlight unique words, and export differences for content optimization."
+            },
+            {
+                "title": "What are Unique N-Grams",
+                "time": "2:42",
+                "description": "Discover why unique engrams boost semantic seo by creating rare, relevant phrase combinations that signal originality, increase relevance, and improve content authority and rankings."
+            },
+            {
+                "title": "What are Site-Wide N-Grams",
+                "time": "4:01",
+                "description": "Discover how site-wide engrams establish your site's primary focus, boost topical authority, and improve relevance, query matching, LSI alignment, and internal linking across macro and micro topics."
+            },
+            {
+                "title": "How to do Site-Wide N-Gram Optimization",
+                "time": "3:51",
+                "description": "analyze site-wide n-grams across competitors with Screaming Frog, exploring semantic content networks and categories; optimize with two to four-grams and internal linking to reinforce your site's focus."
+            }
+        ]
+    },
+    {
+        "topic": "Semantic Content Writing Rules",
+        "subtopics": [
+            {
+                "title": "Find & Use Entities, Attributes & Popular N-Grams in Article",
+                "time": "3:11",
+                "description": "Identify entities and attributes within the macro context to boost semantic seo by using popular n-grams, with tools like Google nlp and Bigtechies to extract, filter, and organize content."
+            },
+            {
+                "title": "Single Macro Context for Pages",
+                "time": "3:01",
+                "description": "Discover how to apply the second law of semantics: a single macro context per page with a focused micro context and a carefully chosen supplementary topic to preserve balance."
+            },
+            {
+                "title": "Why use Factual Sentence",
+                "time": "1:39",
+                "description": "Learn how to craft factual sentences that are direct, evidence-based, and free of bias, with examples like water boils at 100 degrees Celsius and Earth orbits the sun."
+            },
+            {
+                "title": "Using Research Papers to prove points",
+                "time": "2:34",
+                "description": "Discover how to incorporate university research to prove points, present findings with reputable references, and structure content for high-authority, health-focused articles that satisfy standards."
+            },
+            {
+                "title": "Don't break the context",
+                "time": "1:04",
+                "description": "Master maintaining a logical flow by not breaking the context across paragraphs, presenting one point per paragraph to enhance semantic clarity. This reinforces topic relevance and avoids scattering content."
+            },
+            {
+                "title": "Optimize discourse integration",
+                "time": "2:24",
+                "description": "Apply optimized discourse integration to create a coherent paragraph by linking sentences through clear topic sentences and transitions, preserving contextual flow, topic focus, and user intent."
+            },
+            {
+                "title": "Dont Delay the Answer",
+                "time": "2:22",
+                "description": "Adhere to the semantic rule of answering immediately with a simple figure, such as 95 milligrams of caffeine in coffee. Avoid fluff or gibberish and provide high-quality, data-backed context."
+            },
+            {
+                "title": "Expand the evidence with variations",
+                "time": "0:54",
+                "description": "Expand evidence with variations by presenting surveys, scientific studies, and doctor references to strengthen points and boost article authority, using the pattern: state a fact, then according to the article."
+            },
+            {
+                "title": "Dont break the information graph",
+                "time": "0:57",
+                "description": "Learn to maintain a clear information graph by sticking to the topic, avoiding random tangents, and delivering a smooth flow across subtopics to build authority in semantic seo."
+            },
+            {
+                "title": "Use Shorter Sentences",
+                "time": "1:01",
+                "description": "Emphasize using shorter sentences to improve clarity and ease of understanding, while saving Google money; concise sentences prevent unnecessary words and protect content value."
+            },
+            {
+                "title": "Decrease count of Contextless words",
+                "time": "0:33",
+                "description": "Identify and remove contextless words to preserve the core message, use essential words for clarity, and reduce Google's processing load to boost semantic seo rankings."
+            },
+            {
+                "title": "More Information per page,section,paragraphs",
+                "time": "3:00",
+                "description": "Create high-quality pages by packing the maximum information into every sentence, paragraph, and section. Prioritize dense, short sentences at the start to boost Google's early read and first impressions."
+            },
+            {
+                "title": "Consistent Style across documents",
+                "time": "0:38",
+                "description": "Adopt a consistent friendly, informative tone across documents to reinforce brand identity and reader recognition on social media and emails."
+            },
+            {
+                "title": "Consistent Declarations",
+                "time": "0:55",
+                "description": "Ensure all pages maintain consistent declarations about topics, preventing contradictions or negative reversals, so facts stay aligned across articles and support semantic seo."
+            },
+            {
+                "title": "Unique N-Grams",
+                "time": "2:57",
+                "description": "Explore unique engrams and how rare, logical word groups boost relevance and authority in semantic seo, using ai brainstorming to generate content that ranks higher."
+            },
+            {
+                "title": "Same N-Grams",
+                "time": "1:28",
+                "description": "Apply the same n-grams rule in semantic content writing by extracting relevant 3-grams or 4-grams from competitors and using them at the start and end to maintain context and consistency."
+            },
+            {
+                "title": "Single Topic with Every details",
+                "time": "0:41",
+                "description": "Cover every topic with all its details by using data from the same query and filling gaps, even if some aspects aren't in the queries, for semantic SEO."
+            },
+            {
+                "title": "Fewer Links",
+                "time": "0:19",
+                "description": "Optimize semantic seo by using fewer links per document while adding more data; limit external links to one to three, ideally two, to preserve the page's authority."
+            },
+            {
+                "title": "Use ordered and unordered lists",
+                "time": "0:42",
+                "description": "Learn to use ordered and unordered lists to structure content, improve readability, and signal search engines, boosting snippets and optimization for user-friendly, instructional content."
+            },
+            {
+                "title": "How to Give Long Form Answers",
+                "time": "0:24",
+                "description": "Learn to craft long form answers by defining terms, identifying entities and signifiers, applying qualifiers and tests, and linking concepts with examples like aloe vera's moisturizing benefits."
+            },
+            {
+                "title": "Key Term in Title and Heading",
+                "time": "1:22",
+                "description": "Align key terms with the title, h1, and topical map to clarify context and improve semantic seo; illustrate with examples from motorcycle and home workouts."
+            },
+            {
+                "title": "40 Word for Featured Snippet",
+                "time": "1:14",
+                "description": "Apply a 40-word limit per answer to increase the likelihood of triggering a rich snippet, demonstrated through examples and word-counter checks and the people also ask results."
+            },
+            {
+                "title": "Never give opinion in an article",
+                "time": "0:46",
+                "description": "Learn to write semantically for semantic seo by avoiding personal opinions and keeping content factual and neutral. Cite xyz research instead of author viewpoint."
+            },
+            {
+                "title": "Never use everyday language in article",
+                "time": "3:26",
+                "description": "Learn to apply semantic content writing by avoiding everyday language in articles, eliminating slang, contractions, and chatty phrasing, and adopting formal, niche-specific tone for expert audiences."
+            },
+            {
+                "title": "Don\u2019t use analogies",
+                "time": "2:08",
+                "description": "Avoid analogies as a semantic writing rule, and rely on facts to explain concepts, such as coffee providing energy from caffeine and the internet containing vast information, emphasizing goal-driven progress."
+            },
+            {
+                "title": "Citing authoritative sources",
+                "time": "1:14",
+                "description": "Learn the semantic seo rule of citing authoritative sources before statements to add credibility, showing how quoting credible authorities strengthens assertions on topics like water scarcity and water stress types."
+            },
+            {
+                "title": "Content Length Rules",
+                "time": "1:28",
+                "description": "Acquire content length rules and key sentence structures to improve clarity, placing conditions after main statements, avoiding starting with if, and bridging vocabulary gaps between queries and documents."
+            },
+            {
+                "title": "Don\u2019t create an extra sentence if there is no logical reason",
+                "time": "1:05",
+                "description": "Explore semantic seo by prioritizing concise, contextually relevant sentences and minimizing token use for Google processing when a single, clear answer suffices."
+            },
+            {
+                "title": "Adding perspective richness to the paragraph under heading",
+                "time": "0:38",
+                "description": "Add perspective richness to your content by presenting diverse perspectives backed by research-based facts and figures to boost user satisfaction and support targeting in semantic content."
+            },
+            {
+                "title": "Why No Questions Copy Pasting",
+                "time": "0:22",
+                "description": "Learn to avoid copying questions from competitors' people also ask and FAQs; generate your own questions using topical maps and content briefs to support semantic SEO."
+            },
+            {
+                "title": "Why no linking to citations while writing content",
+                "time": "0:35",
+                "description": "Explore how semantic studies forego traditional citation links, detailing authors, affiliations, and subjects to help Google understand content automatically."
+            },
+            {
+                "title": "Table Context",
+                "time": "0:58",
+                "description": "Avoid omitting table context; provide context above the table so Google understands the topic, using bottled water categories, pH, and brands as a ranking signal."
+            },
+            {
+                "title": "Why use Abbreviation",
+                "time": "0:40",
+                "description": "Always use the abbreviation in parentheses on first mention, applying it to any new concept or entity, and omit the abbreviation in later references."
+            },
+            {
+                "title": "Dont Puzzle reader or Google bot",
+                "time": "0:30",
+                "description": "Learn to avoid phrases like go back to the section, preventing difficulty for Google\u2019s bot and negative factors in semantic SEO."
+            },
+            {
+                "title": "Give safe answer",
+                "time": "1:11",
+                "description": "Learn to give a safe answer by citing evidence, comparing laser cutting with other methods, and outlining safety research, user experience, and manufacturer findings."
+            },
+            {
+                "title": "Signal the answer part",
+                "time": "0:55",
+                "description": "Learn to signal the answer part by bolding only the answer phrase, such as 'a flightless bird,' while discussing examples from penguins and formatting guidance for semantic seo."
+            },
+            {
+                "title": "Why put if in second statement",
+                "time": "0:38",
+                "description": "Learn to position the if clause in the second part of the sentence to optimize semantic seo and improve content writing."
+            },
+            {
+                "title": "Optimize Subordinate Text first Sentence",
+                "time": "1:23",
+                "description": "Optimize the subordinate text in the first sentence by starting with to do X, and apply focus-improving techniques such as setting goals, reducing multitasking, and taking breaks."
+            },
+            {
+                "title": "Give examples after a plural noun",
+                "time": "0:43",
+                "description": "Learn to give examples after a plural noun by listing items such as cryptocurrencies like Bitcoin and Ethereum. Also illustrate with dishes, workouts, and languages."
+            },
+            {
+                "title": "Choose Predirecates Wisely",
+                "time": "2:31",
+                "description": "Explore how verb context guides predicate choice for semantic accuracy, with examples like increase, improve, and develop; learn to use artificial intelligence and search suggestions to select the right predicate."
+            },
+            {
+                "title": "Be specific when describing things",
+                "time": "1:24",
+                "description": "Be specific when describing things and move from generic to detailed information, clarifying conditions and benefits with core properties and lesser-known attributes like facial recognition and voice control."
+            },
+            {
+                "title": "Use Numeric Values",
+                "time": "0:39",
+                "description": "Learn to apply numeric values as a semantic rule in semantic search engine optimization by researching exact numbers and replacing vague phrases with precise figures for categories, cities, and numbers."
+            },
+            {
+                "title": "Cut the Fluff out.",
+                "time": "1:27",
+                "description": "Eliminate fluff to craft semantically optimized content with precise facts, numbers, and research, shortening long sentences and replacing vague claims with concrete charger performance details."
+            },
+            {
+                "title": "Be Certain",
+                "time": "1:15",
+                "description": "Be certain applies semantic seo by stating only facts and avoiding uncertainty, using clear, fact-based statements about daily phenomena like the sun rising and a 24-hour day."
+            },
+            {
+                "title": "Same Part of Speech Tag (Word Role) in the first word of sentence for a listing",
+                "time": "2:24",
+                "description": "Learn how to maintain a consistent part of speech pattern in listings by starting each item with the same tag, ensuring cohesive semantic content writing."
+            },
+            {
+                "title": "Context in sentences",
+                "time": "1:40",
+                "description": "Explore context terms and their role in natural language processing, disambiguation, and search engine ranking, using examples like bank to illustrate how context clarifies meaning."
+            },
+            {
+                "title": "Prioritize Attributes and Contexts",
+                "time": "0:38",
+                "description": "Prioritize attributes and context when answering questions, using relevant attributes and topic context to provide accurate, focused responses, as illustrated by where penguins live."
+            },
+            {
+                "title": "Why use diverse measurement units",
+                "time": "0:40",
+                "description": "Explore semantic relevance by using diverse measurement units, such as pounds, kilograms, and liters, to improve user friendliness and SEO through richer, interconnected content."
+            },
+            {
+                "title": "How to Answer Boolean Questions",
+                "time": "0:39",
+                "description": "Answer boolean questions with a direct yes or no at the start, and note that foods containing water can aid hydration, while salty foods increase thirst during a water shortage."
+            },
+            {
+                "title": "Grammar and Spelling Mistakes while writing",
+                "time": "1:39",
+                "description": "Ensure your content is free of grammar and spelling mistakes to meet the e-e-a-t criteria. Use tools like Screaming Frog and Grammarly to identify and fix errors."
+            },
+            {
+                "title": "Truth Ranges",
+                "time": "1:57",
+                "description": "Identify a truth range across conflicting sources, gather all possible values, and present a comprehensive range to reflect variations in data such as pH and melting point."
+            },
+            {
+                "title": "How to Optimize Content for NLP",
+                "time": "2:30",
+                "description": "Learn to write NLP-friendly content by using clear, well-structured sentences with subject\u2013verb\u2013object, direct language, answer alignment, and question-word inclusion to optimize for Google's NLP algorithms."
+            },
+            {
+                "title": "Relevance Configuration",
+                "time": "1:53",
+                "description": "Relevance configuration rearranges sentence order to place the answer first, improving micro semantics and search efficiency for Google tokens, as shown by the penguin example."
+            },
+            {
+                "title": "How to Answer Long Form Type Questions",
+                "time": "1:11",
+                "description": "Learn a structured approach for answering long-form listing questions, citing sources and clearly explaining each type, as illustrated with the two types of water scarcity per a 2008 FAO study."
+            },
+            {
+                "title": "Why TOC is Important and Major Ranking Factor",
+                "time": "0:45",
+                "description": "Include a table of contents in every article as a semantic rule and major ranking factor to show contextual flow to Google."
+            },
+            {
+                "title": "Rare Entities & Attributes",
+                "time": "3:26",
+                "description": "Explore how rare entities and attributes boost search relevance via entity-based indexing and the information gain score. Learn to ensure semantic connections, SERP analysis, and inverse document frequency in ranking."
+            },
+            {
+                "title": "What is Modalitiy and how to use it?",
+                "time": "6:10",
+                "description": "Learn how modality communicates certainty, possibility, and obligation in seo writing, using can, could, might and must. Apply factual, research-based, and personal suggestions with precise measurements for semantic seo."
+            },
+            {
+                "title": "What is coreference Error and How to Fix it?",
+                "time": "1:31",
+                "description": "Learn how coreference errors arise from pronoun ambiguity and how to fix them by clearly naming speakers, breaking complex statements, and ensuring each entity is contextually specified."
+            },
+            {
+                "title": "What is Heartfelt SEO",
+                "time": "2:05",
+                "description": "Learn how sentiment and tone influence reader perception and why heartfelt, empathetic content, avoiding negative or scary language, boosts dwell time and SEO."
+            },
+            {
+                "title": "Focus on Entities not Keywords",
+                "time": "1:28",
+                "description": "Focus on entities rather than keywords to improve content understanding through NLP and named entity recognition, building strong entity connections with attributes and context to signal expertise."
+            },
+            {
+                "title": "Content Writing Rules",
+                "time": "1:28",
+                "description": "Master short forms and rules for clear writing, avoiding starting sentences with if, presenting statements before conditions, and addressing vocabulary gaps between queries and documents."
+            },
+            {
+                "title": "Improve your Article Vocabulary",
+                "time": "2:09",
+                "description": "Improve your article vocabulary by using unique terms, lemmas, and domain terms to boost utterances and context, improving semantic SEO and relevance for language models."
+            },
+            {
+                "title": "Content Originality",
+                "time": "2:10",
+                "description": "Learn why content originality goes beyond rephrasing and avoids fake originality, and how expert authorship, unique contextual terms, and semantically sound, non-stuffed content boost Google\u2019s uniqueness score and indexing."
+            },
+            {
+                "title": "Entity Stuffing",
+                "time": "1:47",
+                "description": "Avoid entity stuffing by focusing on the core entity's main attributes and filtering them by prominence, relevance, and popularity to boost topical authority in semantic seo."
+            },
+            {
+                "title": "Don't Create Extra Sentences",
+                "time": "0:44",
+                "description": "Adopt semantic seo practices by avoiding extra sentences and writing small, one-token statements. Show how concise sentences improve search engine recognition and value."
+            },
+            {
+                "title": "Long Form vs Short Form",
+                "time": "1:29",
+                "description": "Contrast long-form and short-form questions for articles, highlighting that search engines prefer short questions and structure over word count. Use H2 for short questions and H3 for longer, connected variants."
+            }
+        ]
+    },
+    {
+        "topic": "EEAT",
+        "subtopics": [
+            {
+                "title": "EEAT & Topical Authority",
+                "time": "0:47",
+                "description": "Discover how eeat and topical authority relate, and why a source must demonstrate expertise, authoritativeness, trustworthiness, and unique experience to influence search rankings."
+            },
+            {
+                "title": "Google Author Rank",
+                "time": "7:43",
+                "description": "Explore Google author rank as a credibility and authenticity signal for content creators, emphasizing experience, expertise, authoritativeness, trustworthiness, topical authority, and ambient integration with the Google ecosystem in semantic SEO."
+            },
+            {
+                "title": "Author Definition",
+                "time": "4:53",
+                "description": "Define author definition through semantic closeness and establish author bio and source as authority signals. See how Google highlights authors and uses creator and site reputation to inform ranking."
+            },
+            {
+                "title": "Author Rank SEO Research",
+                "time": "7:43",
+                "description": "Explore Google author rank and how authenticity, expertise, and topical authority influence content ranking in semantic seo."
+            },
+            {
+                "title": "Author SEO Guidelines",
+                "time": "5:25",
+                "description": "Boost author seo by building authentic authority with real, verified profiles and detailed bios. Implement high quality content, establish topical authority, and use schema.org markup to ensure clear authorship."
+            },
+            {
+                "title": "Corroboration Pages",
+                "time": "7:16",
+                "description": "Explore how collaboration pages define an entity with consistent third-party sources, align author identity with topics, and boost credibility through corroboration across academic platforms like LinkedIn and academia.edu."
+            },
+            {
+                "title": "Official Websites of Authors",
+                "time": "3:32",
+                "description": "Learn how official author websites trigger knowledge panels and boost EEAT by linking, branding consistency, and collaboration across profiles to form a unified author entity."
+            },
+            {
+                "title": "Unique Statistical Signatures",
+                "time": "2:43",
+                "description": "Explore stylometry to identify an author's unique statistical signature formed by distributional semantics and signature phrases. Learn how search operators reveal writing patterns that distinguish real authors from AI clones."
+            },
+            {
+                "title": "Connecting Authors Brand Entity",
+                "time": "1:53",
+                "description": "Explore how author authority builds through interlinked pages and author layers, with citations, co-authorship, and official site links connected via seed sources to create trust signals."
+            },
+            {
+                "title": "Expression Identity",
+                "time": "3:10",
+                "description": "Explore how expression identity captures a writer's unique phrase patterns and evolving style, how AI content writers lack true expression identity, and how search engines detect and filter such content."
+            },
+            {
+                "title": "Google Quality Rater",
+                "time": "4:35",
+                "description": "Explore Google's quality rater guidelines, detailing how author authority, website reputation, centerpiece annotations, and open web signals, including Open Web Corporation, influence content quality and semantic seo."
+            }
+        ]
+    },
+    {
+        "topic": "Ecommerce SEO",
+        "subtopics": [
+            {
+                "title": "Ecommerce SEO",
+                "time": "5:11",
+                "description": "Optimize your ecommerce store and product pages by consolidating variations, clarifying attributes, and strengthening canonicalization and internal linking to improve indexing, reduce duplicates, and boost rankings."
+            },
+            {
+                "title": "Ecommerce Topical Map",
+                "time": "1:47",
+                "description": "Discover how to design an ecommerce topical map with inner and outer sections, align the dominant context, and balance informational and commercial content to boost SEO signals."
+            }
+        ]
+    }
+]
