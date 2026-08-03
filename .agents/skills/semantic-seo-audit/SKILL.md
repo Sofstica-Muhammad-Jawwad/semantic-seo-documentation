@@ -1,80 +1,118 @@
 ---
 name: semantic-seo-audit
-description: Audits websites, articles, and pages against comprehensive Semantic SEO principles (E.A.V., Topical Maps, Content Briefs, Semantic On-Page, Writing Rules, E-E-A-T, N-Grams, and Ecommerce SEO). Generates an interactive, sequential 1-step-at-a-time execution plan.
+description: Audits websites, articles, and pages against comprehensive Semantic SEO principles (E.A.V., Topical Maps, Content Briefs, Semantic On-Page, Writing Rules, E-E-A-T, N-Grams, and Ecommerce SEO). Generates an interactive, sequential 1-step-at-a-time execution plan detailing exact line-by-line changes for every article.
 ---
 
 # Semantic SEO Audit Skill (`/semantic-seo-audit`)
 
-When activated, this skill guides the user through a comprehensive, step-by-step Semantic SEO audit of a website, article, or page set. It analyzes content and architecture against the 11 Semantic SEO Clusters and produces a structured, actionable task list—executing and verifying **one single step at a time**.
+When activated, this skill performs an exhaustive, granular Semantic SEO audit of a website, individual article, or page set. It scrutinizes content against the 11 Semantic SEO Clusters and produces an actionable, step-by-step audit report that shows **exact text revisions, structural fixes, and code changes—executing 1 step at a time**.
 
 ---
 
-## 🎯 Audit Workflow & Execution Protocol
+## 🎯 Core Operating Rules
 
-### Rule #1: One Step at a Time
-Never overwhelm the user with a massive dump of tasks to fix simultaneously. Present the audit findings, create a numbered checklist, and **execute/guide the user through Step 1 first**. Wait for completion or confirmation before proceeding to Step 2.
-
----
-
-## 📋 The 6-Phase Audit Checklist
-
-### Phase 1: Source Context & Domain Alignment
-1. **Central Entity Identification:** Verify if the website/page has ONE clear Central Entity.
-2. **Topical Borders:** Check if any articles cross topical borders (e.g., a food site publishing tech news) causing Topical Map Distortion.
-3. **Site-Wide N-Grams & Boilerplate:** Inspect footers, headers, and sidebars for spammy or distracting repeating word patterns.
-
-### Phase 2: Topical Map & Architecture Audit
-1. **Core vs. Outer Sections:** Ensure core pillar pages (Quality Nodes) exist and outer supporting articles properly link back to them.
-2. **Taxonomy & Hierarchy:** Verify category URL paths (Root → Seed → Node) and ensure no orphan pages exist.
-3. **Internal Link Network:** Verify descriptive anchor text (no "Click Here") and ensure contextual relevance of linked pages.
-
-### Phase 3: Page Structure & Candidate Answer Passages
-1. **H1 & Title Tag Optimization:** Verify single H1 per page, inclusion of Central Entity + Qualifier (Year/Location), under 60 chars.
-2. **Candidate Answer Passages (Snippet Readiness):** Check if question H2s are immediately followed by a bolded/direct 40–50 word answer passage.
-3. **Contextual Flow & Hierarchy:** Check logical order (What → Why → How → What Else) and verify Table of Contents (TOC) presence.
-
-### Phase 4: Semantic Writing & NLP Compliance Audit
-1. **Information Density & Fluff Check:** Ensure high ratio of factual data, numbers, and dates. Remove fluff words ("basically", "very", "really").
-2. **Factuality & Certainty:** Eliminate opinions ("I think") and analogies ("flies like a cheetah"). Use direct active-voice Subject-Verb-Object sentences.
-3. **Attribute Coverage & E.A.V:** Check if key objective attributes (specs, measurements, facts) are structured using lists and HTML tables.
-4. **Coreference & Disambiguation:** Check for ambiguous pronouns ("it", "he") and ensure context words exist in the first paragraph.
-
-### Phase 5: E-E-A-T & Technical Schema Audit
-1. **Author Rank & Bios:** Check for real author profiles, headshots, detailed bios, and social/corroboration links.
-2. **Schema Markup Integration:** Validate JSON-LD schemas (`Article`, `Product`, `Organization`, `FAQPage`, `BreadcrumbList`).
-3. **Image Alt Text & Naming:** Verify descriptive filenames (e.g., `sindhi-biryani-recipe.jpg`) and detailed Alt Text.
-
-### Phase 6: Interactive Step-by-Step Action Plan
-1. Compile all audit findings into a prioritized `semantic_seo_audit_plan.md`.
-2. Present **Step 1** to the user with exact instructions, code snippets, or text rewrites.
-3. Once Step 1 is done, check it off and proceed to **Step 2**.
+1. **Granular Article-by-Article Inspection:** Do not give vague advice like "improve content." Point out exact sentences, paragraphs, headings, and schema blocks that need changing.
+2. **1 Step at a Time Protocol:** Present the overall audit checklist, then zoom in on **Step 1 only**. Give the exact before/after text or code fix, and wait for user confirmation before moving to Step 2.
+3. **5th-Grade Relatable Explanation:** Briefly explain *why* each change is being made using simple, logical reasoning.
 
 ---
 
-## 🛠️ Output Format for Audit Reports
+## 🔬 Comprehensive Article & Page Audit Checkpoints
 
-When executing an audit, format the report as follows:
+When auditing any article or page, systematically evaluate each of the following 9 areas:
+
+### 1. Title Tag, H1 & Meta Description Audit
+- [ ] **Title Tag:** Includes Central Entity + Qualifier (Year/Location/Audience), under 60 characters, keyword near front.
+- [ ] **H1 Heading:** Exactly ONE H1 tag per page, similar to Title Tag but slightly varied to capture extra long-tail terms.
+- [ ] **Meta Description:** 150–160 characters, includes Central Entity, contains a clear Call-to-Action (CTA).
+
+### 2. Candidate Answer Passage (Featured Snippet) Audit
+- [ ] **Direct Answer Passages:** Every question heading (H2) MUST be followed by a 40–50 word self-contained, bolded answer passage in the very next sentence.
+- [ ] **Boolean Questions:** Yes/No questions MUST start directly with "Yes," or "No," followed by the explanation.
+- [ ] **Signal Phrases:** Uses answer signals ("The main reason is...", "The answer is...") to guide Google's Information Extraction (IE) engine.
+
+### 3. Information Density & Fluff Removal
+- [ ] **Fluff Words Check:** Highlight and eliminate contextless words ("basically", "very", "really", "quite", "stuff", "things").
+- [ ] **Fact-to-Sentence Ratio:** Ensure every single paragraph contains at least 2–3 verifiable facts, numbers, dates, or measurements.
+- [ ] **No Opinions or Analogies:** Convert subjective opinions ("I think this is awesome") and analogies ("flies like a cheetah") into objective data ("has a top speed of 200 km/h").
+
+### 4. E.A.V (Entity-Attribute-Value) & Formatting
+- [ ] **Central Entity Focus:** Ensure the article revolves around ONE primary Central Entity.
+- [ ] **Objective Attribute Coverage:** Verify key attributes (specs, price, dimensions, history) are covered.
+- [ ] **Structured Tables & Lists:** Check that E.A.V pairs are organized in clean HTML tables or bulleted/numbered lists (not walls of text).
+
+### 5. Semantic Writing Rules Compliance (66 Rules)
+- [ ] **Sentence Length:** Keep sentences under 20 words.
+- [ ] **Active Voice & SRL:** Use active Subject + Verb + Object structure ("Babar Azam hit the ball" instead of "The ball was hit by Babar Azam").
+- [ ] **No Sentence-Starting "If":** Rewrite condition clauses so the main statement comes first ("Exercise daily to lose weight, if combined with diet" instead of "If you want to lose weight, exercise daily").
+- [ ] **Coreference Resolution:** Replace ambiguous pronouns ("he", "it", "they") with explicit Entity names to prevent Google NLP coreference errors.
+- [ ] **Consistent Listing Parts of Speech:** Ensure all items in a bulleted list start with the exact same part of speech (e.g., all starting with action verbs).
+
+### 6. Contextual Flow & Structure
+- [ ] **Table of Contents (TOC):** Verify a clickable Table of Contents exists right after the introduction.
+- [ ] **Logical Section Flow:** Order content logically (What → Why → How → What Else / FAQs).
+- [ ] **Contextual Bridges:** Ensure every section ends with a transitional sentence connecting smoothly to the next H2 topic.
+
+### 7. N-Gram & Disambiguation Check
+- [ ] **Missing Competitor N-Grams:** Identify key Bigrams and Trigrams used by top-ranking competitors that are missing in the target article.
+- [ ] **First Paragraph Disambiguation:** Check if the first paragraph contains 3–5 context words to resolve polysemy or homonymy.
+
+### 8. Schema & Technical On-Page
+- [ ] **JSON-LD Schema:** Check for presence of `Article`, `FAQPage`, `BreadcrumbList`, and `Product`/`Organization` schemas.
+- [ ] **Image Optimization:** Check that image filenames are descriptive (e.g., `sindhi-biryani-recipe.jpg`) and Alt Text describes the image concisely.
+- [ ] **Anchor Text:** Ensure internal links use descriptive anchor text (zero instance of "Click Here" or "Read More").
+
+### 9. E-E-A-T (Author & Trust)
+- [ ] **Author Bio Box:** Check for visible author name, professional headshot, credentials, and social links.
+- [ ] **Sources & Citations:** Verify claims are linked to authoritative primary sources or research papers.
+
+---
+
+## 🛠️ Required Output Format During Audits
+
+When conducting an audit, present the results using this exact structure:
 
 ```markdown
-# 🔍 Semantic SEO Audit Report: [Target URL / Site Name]
+# 🔍 Granular Semantic SEO Audit: [Article Title / Page URL]
 
-## Executive Summary
-- **Central Entity:** [Identified Entity]
-- **Source Context Status:** [Focused / Distorted]
-- **Topical Authority Score:** [Low / Medium / High]
+## 📊 Quick Health Summary
+- **Central Entity:** [Identified Central Entity]
+- **Information Density:** [Low / Medium / High]
+- **Featured Snippet Readiness:** [Pass / Needs Fix]
+- **Schema Compliance:** [Missing / Partial / Complete]
 
-## 🛠️ Step-by-Step Fix List (1 Step at a Time)
+---
 
-- [ ] **Step 1:** [Immediate High-Impact Fix]
-- [ ] **Step 2:** [Second Priority Fix]
-- [ ] **Step 3:** [Third Priority Fix]
-...
+## 🛠️ Step-by-Step Action Plan (Executing 1 Step at a Time)
+
+- [ ] **Step 1:** Fix Title Tag & H1 Alignment
+- [ ] **Step 2:** Add 40-Word Candidate Answer Passage under H2
+- [ ] **Step 3:** Convert Paragraph 3 to High Information Density & Remove Fluff
+- [ ] **Step 4:** Format E.A.V Attributes into HTML Table
+- [ ] **Step 5:** Fix Coreference Errors (Pronoun Ambiguity)
+- [ ] **Step 6:** Add JSON-LD Schema Code
 
 ---
 
 ### ▶️ CURRENT TASK: Step 1 — [Task Title]
-**Issue:** [What is currently wrong based on Semantic SEO rules]  
-**Fix:** [Exact instructions / rewritten code / new content]  
 
-*Let me know when you've applied Step 1 (or ask me to apply it), and we will move to Step 2!*
+#### ❌ Current Issue:
+[Explain what is currently wrong in simple terms]
+
+#### 📝 Existing Content:
+```text
+[Paste the exact existing text/code from the article]
+```
+
+#### ✅ Recommended Revision (Copy-Paste Ready):
+```text
+[Provide the exact rewritten text, heading, or code snippet ready for production]
+```
+
+#### 💡 Why This Helps SEO:
+[1-2 sentences in simple 5th-grade Pakistani relatable tone explaining the benefit]
+
+---
+
+*Reply "Done" or "Apply Step 1" to proceed to Step 2!*
 ```
