@@ -5,13 +5,31 @@ description: Audits websites, articles, and pages against comprehensive Semantic
 
 # Semantic SEO Audit Skill (`/semantic-seo-audit`)
 
-When activated, this skill performs an exhaustive, granular Semantic SEO audit of a website, individual article, or page set. It scrutinizes content against the 11 Semantic SEO Clusters and produces an actionable, step-by-step audit report that shows **exact text revisions, structural fixes, and code changes—executing 1 step at a time**.
+When activated, this skill performs an exhaustive, granular Semantic SEO audit of a website, individual article, or page set. It scrutinizes content against all **11 Semantic SEO Clusters** documented in this repository and produces an actionable, step-by-step audit report showing **exact text revisions, structural fixes, and code changes—executing 1 step at a time**.
+
+---
+
+## 📚 Reference Knowledge Base (All 11 Clusters Covered)
+
+The audit framework directly incorporates and enforces principles from all 11 clusters:
+
+1. **[1_semantic_seo_theories.md](../../semantic_seo_clusters/1_semantic_seo_theories.md):** 68 subtopics (E.A.V triplets, Ontology vs Taxonomy, Knowledge Domains, Information Density, Historical Data, Unique Information Gain, TF-IDF).
+2. **[2_lexical_semantics.md](../../semantic_seo_clusters/2_lexical_semantics.md):** 3 subtopics (Synonyms, Antonyms, Hypernyms, Hyponyms, Holonyms, Meronyms, Homonyms, Polysemy disambiguation).
+3. **[3_query_semantics.md](../../semantic_seo_clusters/3_query_semantics.md):** 48 subtopics (Query intent, Seed/Factoid/Categorical queries, Intent Templates, Word Vectors, Co-occurrence Matrix, Query Expansion).
+4. **[4_topical_map.md](../../semantic_seo_clusters/4_topical_map.md):** 12 subtopics (Semantic Content Networks, Core vs Outer sections, Topical Borders, Map Distortion prevention).
+5. **[5_content_brief.md](../../semantic_seo_clusters/5_content_brief.md):** 12 subtopics (Contextual Flow, Hierarchy, Candidate Answer Passages, Passage Ranking).
+6. **[6_semantic_on_page_seo.md](../../semantic_seo_clusters/6_semantic_on_page_seo.md):** 13 subtopics (Title/H1 rules, Meta descriptions, Clean URLs, Internal linking anchor text, Image Alt Text, Schema stacking).
+7. **[7_semantic_seo_algorithms.md](../../semantic_seo_clusters/7_semantic_seo_algorithms.md):** 17 subtopics (NLP, Sequence modeling, NER, BERT, MUM, PaLM, LaMDA, Pegasus, REALM).
+8. **[8_n_grams.md](../../semantic_seo_clusters/8_n_grams.md):** 5 subtopics (Unigrams, Bigrams, Trigrams, N-Gram competitive analysis, Site-wide N-Grams).
+9. **[9_semantic_content_writing_rules.md](../../semantic_seo_clusters/9_semantic_content_writing_rules.md):** 66 rules (Factual sentences, short sentences, zero fluff, active voice, 40-word snippets, lists, coreference resolution, truth ranges).
+10. **[10_eeat.md](../../semantic_seo_clusters/10_eeat.md):** 11 subtopics (Experience, Expertise, Authoritativeness, Trustworthiness, Author Rank, Corroboration, Quality Raters).
+11. **[11_ecommerce_seo.md](../../semantic_seo_clusters/11_ecommerce_seo.md):** 2 subtopics (Product descriptions, Product schema, Category taxonomy, Filter canonicalization).
 
 ---
 
 ## 🎯 Core Operating Rules
 
-1. **Granular Article-by-Article Inspection:** Do not give vague advice like "improve content." Point out exact sentences, paragraphs, headings, and schema blocks that need changing.
+1. **Granular Article-by-Article Inspection:** Point out exact sentences, paragraphs, headings, and schema blocks that need changing based on the 11 clusters.
 2. **1 Step at a Time Protocol:** Present the overall audit checklist, then zoom in on **Step 1 only**. Give the exact before/after text or code fix, and wait for user confirmation before moving to Step 2.
 3. **5th-Grade Relatable Explanation:** Briefly explain *why* each change is being made using simple, logical reasoning.
 
@@ -21,48 +39,48 @@ When activated, this skill performs an exhaustive, granular Semantic SEO audit o
 
 When auditing any article or page, systematically evaluate each of the following 9 areas:
 
-### 1. Title Tag, H1 & Meta Description Audit
+### 1. Title Tag, H1 & Meta Description Audit (Cluster 6)
 - [ ] **Title Tag:** Includes Central Entity + Qualifier (Year/Location/Audience), under 60 characters, keyword near front.
 - [ ] **H1 Heading:** Exactly ONE H1 tag per page, similar to Title Tag but slightly varied to capture extra long-tail terms.
 - [ ] **Meta Description:** 150–160 characters, includes Central Entity, contains a clear Call-to-Action (CTA).
 
-### 2. Candidate Answer Passage (Featured Snippet) Audit
+### 2. Candidate Answer Passage (Featured Snippet) Audit (Clusters 5 & 9)
 - [ ] **Direct Answer Passages:** Every question heading (H2) MUST be followed by a 40–50 word self-contained, bolded answer passage in the very next sentence.
 - [ ] **Boolean Questions:** Yes/No questions MUST start directly with "Yes," or "No," followed by the explanation.
 - [ ] **Signal Phrases:** Uses answer signals ("The main reason is...", "The answer is...") to guide Google's Information Extraction (IE) engine.
 
-### 3. Information Density & Fluff Removal
+### 3. Information Density & Fluff Removal (Clusters 1 & 9)
 - [ ] **Fluff Words Check:** Highlight and eliminate contextless words ("basically", "very", "really", "quite", "stuff", "things").
 - [ ] **Fact-to-Sentence Ratio:** Ensure every single paragraph contains at least 2–3 verifiable facts, numbers, dates, or measurements.
 - [ ] **No Opinions or Analogies:** Convert subjective opinions ("I think this is awesome") and analogies ("flies like a cheetah") into objective data ("has a top speed of 200 km/h").
 
-### 4. E.A.V (Entity-Attribute-Value) & Formatting
+### 4. E.A.V (Entity-Attribute-Value) & Formatting (Clusters 1 & 2)
 - [ ] **Central Entity Focus:** Ensure the article revolves around ONE primary Central Entity.
 - [ ] **Objective Attribute Coverage:** Verify key attributes (specs, price, dimensions, history) are covered.
 - [ ] **Structured Tables & Lists:** Check that E.A.V pairs are organized in clean HTML tables or bulleted/numbered lists (not walls of text).
 
-### 5. Semantic Writing Rules Compliance (66 Rules)
+### 5. Semantic Writing Rules Compliance (Cluster 9 - All 66 Rules)
 - [ ] **Sentence Length:** Keep sentences under 20 words.
 - [ ] **Active Voice & SRL:** Use active Subject + Verb + Object structure ("Babar Azam hit the ball" instead of "The ball was hit by Babar Azam").
 - [ ] **No Sentence-Starting "If":** Rewrite condition clauses so the main statement comes first ("Exercise daily to lose weight, if combined with diet" instead of "If you want to lose weight, exercise daily").
 - [ ] **Coreference Resolution:** Replace ambiguous pronouns ("he", "it", "they") with explicit Entity names to prevent Google NLP coreference errors.
 - [ ] **Consistent Listing Parts of Speech:** Ensure all items in a bulleted list start with the exact same part of speech (e.g., all starting with action verbs).
 
-### 6. Contextual Flow & Structure
+### 6. Contextual Flow & Structure (Clusters 4 & 5)
 - [ ] **Table of Contents (TOC):** Verify a clickable Table of Contents exists right after the introduction.
 - [ ] **Logical Section Flow:** Order content logically (What → Why → How → What Else / FAQs).
 - [ ] **Contextual Bridges:** Ensure every section ends with a transitional sentence connecting smoothly to the next H2 topic.
 
-### 7. N-Gram & Disambiguation Check
+### 7. N-Gram & Disambiguation Check (Clusters 2 & 8)
 - [ ] **Missing Competitor N-Grams:** Identify key Bigrams and Trigrams used by top-ranking competitors that are missing in the target article.
 - [ ] **First Paragraph Disambiguation:** Check if the first paragraph contains 3–5 context words to resolve polysemy or homonymy.
 
-### 8. Schema & Technical On-Page
+### 8. Schema & Technical On-Page (Clusters 6 & 11)
 - [ ] **JSON-LD Schema:** Check for presence of `Article`, `FAQPage`, `BreadcrumbList`, and `Product`/`Organization` schemas.
 - [ ] **Image Optimization:** Check that image filenames are descriptive (e.g., `sindhi-biryani-recipe.jpg`) and Alt Text describes the image concisely.
 - [ ] **Anchor Text:** Ensure internal links use descriptive anchor text (zero instance of "Click Here" or "Read More").
 
-### 9. E-E-A-T (Author & Trust)
+### 9. E-E-A-T (Author & Trust) (Cluster 10)
 - [ ] **Author Bio Box:** Check for visible author name, professional headshot, credentials, and social links.
 - [ ] **Sources & Citations:** Verify claims are linked to authoritative primary sources or research papers.
 
